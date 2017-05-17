@@ -1,6 +1,10 @@
 # About
 
+## Mission
 The Center's mission is to bring together researchers who are developing and applying computational biology and bioinformatic approaches across a wide range of biological questions. In order to enhance Penn State's recognized strength in this area, the Center will continue to foster collaborations, contribute to education and training, and improve external visibility and reputation.
+
+## History
+The Center was initially founded in 2003 by Francesca Chiaromonte, Ross Hardison, Arthur Lesk, Kateryna Makova, Anton Nekrutenko, and Webb Miller. It was heavily involved in early genomics efforts, including UCSC, mouse, etc... The center and its activities also gave birth to the Galaxy project, etc...
 
 # People
 
@@ -27,6 +31,7 @@ Faculty Members
 ## active github pages 
 * https://github.com/medvedevgroup/
 * https://github.com/nekrut
+
 
 
 # Education
