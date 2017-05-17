@@ -1,3 +1,27 @@
+# About
+
+The Center's mission is to bring together researchers who are developing and applying computational biology and bioinformatic approaches across a wide range of biological questions. In order to enhance Penn State's recognized strength in this area, the Center will continue to foster collaborations, contribute to education and training, and improve external visibility and reputation.
+
+# People
+
+Faculty Members
+* Laura Carrel, Professor of Biochemistry and Molecular Biology (HMC)
+* Francesca Chiaromonte, Professor of Statistics
+* Santhosh Girirajan, Assistant Professor of Biochemistry and Molecular Biology
+* Ross Hardison, Professor of Biochemistry, Director of CCGB
+* Arthur Lesk, Professor of Biochemistry and Molecular Biology
+* Qunhua Li, Assistant Professor of Statistics
+* Manuel Llinas, Professor of Biochemistry and Molecular Biology
+* Shaun Mahony, Assistant Professor of Biochemistry and Molecular Biology
+* Kateryna Makova, Professor of Biology
+* Paul Medvedev, Assistant Professor of Computer Science and of Biochemistry and Molecular Biology
+* Webb Miller, (Emeritus?) Professor of Computer Science
+* Anton Nekrutenko, Professor of Biochemistry and Molecular Biology
+* B. Franklin Pugh, Professor of Biochemistry and Molecular Biology
+* Feng Yue, Assistant Professor of Biochemistry and Molecular Biology (HMC)
+* Yu Zhang, Associate Professor of Statistics
+
+
 # Software
 
 ## active github pages 
@@ -14,7 +38,7 @@
 | BMMB554 |Introduction to data driven life sciences | | https://github.com/nekrut/BMMB554 |
 | BMMB/CSE 566 | Algorithms and Data Structures for Bioinformatics | | https://docs.google.com/spreadsheets/d/1UylYHnaGFjbrsKNC4Wo-lOTIvMoLO77QmhBSwyHMIP0/edit#gid=0 |
 | BMB Shaun's class | 
-| BMMB 852 | Applied Bioinformatics | } https://www.ialbert.me/courses/2016/2016-fall-852.html
+| BMMB 852 | Applied Bioinformatics | | https://www.ialbert.me/courses/2016/2016-fall-852.html
 
 
 ## Graduate programs
