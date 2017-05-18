@@ -49,6 +49,8 @@ Penn State offers several courses that cover  Computational Biology and Bioinfor
 | PHYS/BIOL 497 | Network analysis of biological systems | | https://www.ralbert.me/teaching.html
 | STAT 555 | Statistical Genomics | |
 | BIOL 405 | Molecular Evolution | | 
+| BMMB551 | Genomics | |
+| BMB484 | Functional Genomics | |
 | Le Bao's data mining classs |
 
 
@@ -63,7 +65,7 @@ Students interested in pursuing graduate studies with Computational Biology and 
 
 
 ## Training grants
-Traning grants typically cross departmental boundaries with the intent to supplement existing graduate programs. When you are a student enrolled in a graduate program at Penn State, you are welcome to apply for these training programs. They provide additional training that is not usually part of a graduate program. This may include additional courses, seminars, tutorials, or research.
+Traning grants provide external funding for students to participate in training activities outside of their respective graduate program. Applications are solicited during the year from students already enrolled in a graduate program. This funding allows students to receive additional training that is not usually part of a graduate program, e.g. additional courses, seminars, or tutorials.
 * [Computation, Bioinformatics, and Statistics (CBIOS) Training Program](https://www.huck.psu.edu/content/graduate-programs/computation-bioinformatics-statistics)
 * [Biomedical Big Data to Knowledge (B2D2K)](https://www.huck.psu.edu/content/graduate-programs/penn-state-nih-bigdata-training-program)
 
