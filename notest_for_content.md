@@ -9,21 +9,21 @@ The Center was initially founded in 2003 by Francesca Chiaromonte, Ross Hardison
 # People
 
 Faculty Members
-* Laura Carrel, Professor of Biochemistry and Molecular Biology (HMC)
-* Francesca Chiaromonte, Professor of Statistics
-* Santhosh Girirajan, Assistant Professor of Biochemistry and Molecular Biology
-* Ross Hardison, Professor of Biochemistry, Director of CCGB
-* Arthur Lesk, Professor of Biochemistry and Molecular Biology
-* Qunhua Li, Assistant Professor of Statistics
-* Manuel Llinas, Professor of Biochemistry and Molecular Biology
-* Shaun Mahony, Assistant Professor of Biochemistry and Molecular Biology
-* Kateryna Makova, Professor of Biology
-* Paul Medvedev, Assistant Professor of Computer Science and of Biochemistry and Molecular Biology
-* Webb Miller, (Emeritus?) Professor of Computer Science
-* Anton Nekrutenko, Professor of Biochemistry and Molecular Biology
-* B. Franklin Pugh, Professor of Biochemistry and Molecular Biology
-* Feng Yue, Assistant Professor of Biochemistry and Molecular Biology (HMC)
-* Yu Zhang, Associate Professor of Statistics
+* Laura Carrel
+* Francesca Chiaromonte
+* Santhosh Girirajan
+* Ross Hardison
+* Arthur Lesk
+* Qunhua Li
+* Manuel Llinas
+* Shaun Mahony
+* Kateryna Makova
+* Paul Medvedev
+* Webb Miller (Emeritus?) 
+* Anton Nekrutenko
+* B. Franklin Pugh
+* Feng Yue
+* Yu Zhang
 
 
 # Software
@@ -38,7 +38,7 @@ Faculty Members
 
 ## Classes
 
-Penn State offers several courses relevant to students with interest in Computational Biology and Bioinformatics. We list some of them here:
+Penn State offers several courses that cover  Computational Biology and Bioinformatics material. We list some of them here:
 
 | Number | Name | Official Description | Example homepage |
 |:------:|:-----|:-------|:-------|
@@ -46,7 +46,9 @@ Penn State offers several courses relevant to students with interest in Computat
 | BMMB/CSE 566 | Algorithms and Data Structures for Bioinformatics | | https://docs.google.com/spreadsheets/d/1UylYHnaGFjbrsKNC4Wo-lOTIvMoLO77QmhBSwyHMIP0/edit#gid=0 |
 | BMB Shaun's class | 
 | BMMB 852 | Applied Bioinformatics | | https://www.ialbert.me/courses/2016/2016-fall-852.html
-| Qunhua's class |
+| PHYS/BIOL 497 | Network analysis of biological systems | | https://www.ralbert.me/teaching.html
+| STAT 555 | Statistical Genomics | |
+| BIOL 405 | Molecular Evolution | | 
 | Le Bao's data mining classs |
 
 
