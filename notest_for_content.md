@@ -47,7 +47,7 @@ Penn State offers several courses that cover  Computational Biology and Bioinfor
 | BMB Shaun's class | 
 | BMMB 852 | Applied Bioinformatics | | https://www.ialbert.me/courses/2016/2016-fall-852.html
 | PHYS/BIOL 497 | Network analysis of biological systems | | https://www.ralbert.me/teaching.html
-| STAT 555 | Statistical Genomics | |
+| STAT 555 | Statistical Analysis of Genomics Data | |
 | BIOL 405 | Molecular Evolution | | 
 | BMMB551 | Genomics | |
 | BMB484 | Functional Genomics | |
