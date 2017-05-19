@@ -4,7 +4,7 @@
 The Center's mission is to bring together researchers who are developing and applying computational biology and bioinformatic approaches across a wide range of biological questions. In order to enhance Penn State's recognized strength in this area, the Center will continue to foster collaborations, contribute to education and training, and improve external visibility and reputation.
 
 ## History
-The Center was initially founded in 2003 by Francesca Chiaromonte, Ross Hardison, Arthur Lesk, Kateryna Makova, Anton Nekrutenko, and Webb Miller. It was heavily involved in early genomics efforts, including UCSC, mouse, etc... The center and its activities also gave birth to the Galaxy project, etc...
+
 
 # People
 
@@ -44,14 +44,15 @@ Penn State offers several courses that cover  Computational Biology and Bioinfor
 |:------:|:-----|:-------|:-------|
 | BMMB554 |Introduction to data driven life sciences | | https://github.com/nekrut/BMMB554 |
 | BMMB/CSE 566 | Algorithms and Data Structures for Bioinformatics | | https://docs.google.com/spreadsheets/d/1UylYHnaGFjbrsKNC4Wo-lOTIvMoLO77QmhBSwyHMIP0/edit#gid=0 |
-| BMB Shaun's class | 
+| BMB 497 | Introduction to Bioinformatics  | | 
 | BMMB 852 | Applied Bioinformatics | | https://www.ialbert.me/courses/2016/2016-fall-852.html
 | PHYS/BIOL 497 | Network analysis of biological systems | | https://www.ralbert.me/teaching.html
 | STAT 555 | Statistical Analysis of Genomics Data | |
 | BIOL 405 | Molecular Evolution | | 
 | BMMB551 | Genomics | |
 | BMB484 | Functional Genomics | |
-| Le Bao's data mining classs |
+| BIOL 422 | Advanced Genetics | |
+| BIOL 428 | Population Genetics | |
 
 
 ## Graduate programs
