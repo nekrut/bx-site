@@ -42,12 +42,12 @@ Penn State offers several courses that cover  Computational Biology and Bioinfor
 
 | Number | Name | Official Description | Example homepage |
 |:------:|:-----|:-------|:-------|
-| BMMB554 |Introduction to data driven life sciences | | https://github.com/nekrut/BMMB554 |
-| BMMB/CSE 566 | Algorithms and Data Structures for Bioinformatics | | https://docs.google.com/spreadsheets/d/1UylYHnaGFjbrsKNC4Wo-lOTIvMoLO77QmhBSwyHMIP0/edit#gid=0 |
+| BMMB/MCIBS 554 |Introduction to data driven life sciences | http://bulletins.psu.edu/graduate/courses/B/BMMB/554/201516SP  | https://github.com/nekrut/BMMB554 |
+| CSE/BMMB 566 | Algorithms and Data Structures for Bioinformatics | http://bulletins.psu.edu/graduate/courses/C/CSE/566/201516SP | https://docs.google.com/spreadsheets/d/1UylYHnaGFjbrsKNC4Wo-lOTIvMoLO77QmhBSwyHMIP0/edit#gid=0 |
 | BMB 497 | Introduction to Bioinformatics  | | 
-| BMMB 852 | Applied Bioinformatics | | https://www.ialbert.me/courses/2016/2016-fall-852.html
+| BMMB 852 | Applied Bioinformatics | http://bulletins.psu.edu/graduate/courses/B/BMMB/852/201314SP | https://www.ialbert.me/courses/2016/2016-fall-852.html
 | PHYS/BIOL 497 | Network analysis of biological systems | | https://www.ralbert.me/teaching.html
-| STAT 555 | Statistical Analysis of Genomics Data | |
+| STAT 555 | Statistical Analysis of Genomics Data | http://bulletins.psu.edu/graduate/courses/S/STAT/555/201617FA |
 | BIOL 405 | Molecular Evolution | | 
 | BMMB551 | Genomics | |
 | BMB484 | Functional Genomics | |
