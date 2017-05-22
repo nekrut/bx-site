@@ -3,8 +3,11 @@
 ## Mission
 The Center's mission is to bring together researchers who are developing and applying computational biology and bioinformatic approaches across a wide range of biological questions. In order to enhance Penn State's recognized strength in this area, the Center will continue to foster collaborations, contribute to education and training, and improve external visibility and reputation.
 
-## History
+## What is a Center?
+A Center is an umbrella group intended to connect people from various departments in order to achieve its mission. Unlike a Department, a Center does not hire faculty or run classes. However, it does serve as a focal point for its given area, organizing events and facilitating its research and education mission.
 
+## History
+The Center for {NEW NAME HERE} was founded in 2003. Work within the Center has led to many important advances in genome analysis, including groundbreaking work in evolutionary and functional genomics. Algorithms for alignments of entire genome sequences from multiple species were developed here as part of our participation in consortia analyzing genomes of mouse, rat, chicken, rhesus, chimpanzee, and others. These programs are still in common use today. Foundational work applying bioinformatic and statistical approaches to infer function from aligned genome sequences and from epigenetic signals arose from the Center, e.g. during our participation in the ENCODE project. Providing broad access to bioinformatic tools for genome analysis and enabling transparency in analysis has been a consistent theme from the Center, leading to the popular Galaxy platform that is used internationally for analysis of genome data. The Center's diverse membership of both experimental and computational scientists reflects the importance of experimental validations of the bioinformatic and statistical predictions.  In 2017, the Center's name was changed to its current one, from the "Center for Comparative Genomics and Bioinformatics," to better represent Penn State's dynamic research landscape. Please explore this web site to find out more about our ongoing work!
 
 # People
 
