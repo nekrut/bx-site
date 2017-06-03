@@ -88,5 +88,5 @@ There are several regular events at Penn State that are of interest to researche
 * [Graduate Student Organization for Genomics interest (GenoMIX)](https://www.huck.psu.edu/content/graduate-programs/bioinformatics-and-genomics/bg-student-organizations)
 * Other huck centers
 
-Link to markdown cheatsheet (for Paul)
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+# How to get involved
+* Subscribe to mailing list for events all@bx.psu.edu
